@@ -1,0 +1,18 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Berry Boessenkool  
+R training and consulting  
+https://brry.github.io  
+berry-b@gmx.de  
+
+- data analysis & visualisation
+- introductionary R courses
+- package development
+- spatio-temporal data analysis
+- extreme value statistics
