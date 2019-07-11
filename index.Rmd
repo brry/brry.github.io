@@ -12,8 +12,8 @@ Hi!
 
 I'm Berry, environmental scientist by training and R enthusiast by heart.  
 I give [R courses](https://github.com/brry/course#slides), develop [rdwd](https://github.com/brry/rdwd#rdwd) and other [packages](ftp://cran.r-project.org/pub/R/web/checks/check_results_berry-b_at_gmx.de.html) and help people with data analysis projects.  
-Starting September, I plan to be a freelance R trainer and consultant.  
-Please feel free to already [contact me](berry-b@gmx.de) for work requests.  
+Starting September, I plan to be a (freelance) R trainer and consultant.  
+Please feel free to already [contact me](berry-b@gmx.de) for work requests or job offerings.  
 My fields of expertise are:  
 
 - data analysis & visualisation
