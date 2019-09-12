@@ -17,7 +17,7 @@ develop [rdwd](https://github.com/brry/rdwd#rdwd) and other [packages](ftp://cra
 co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/) 
 and help people with data analysis projects.  
 Starting September, I plan to be a (freelance) R trainer and consultant. 
-Please feel free to already [contact me](berry-b@gmx.de) for work requests or job offerings.  
+Please feel free to already [contact me](mailto:berry-b@gmx.de) for work requests or job offerings.  
 My fields of expertise are:  
 
 - data analysis & visualisation
