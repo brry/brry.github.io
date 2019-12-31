@@ -16,7 +16,7 @@ I give [R courses](https://github.com/brry/course#slides),
 develop [rdwd](https://github.com/brry/rdwd#rdwd) and other [packages](ftp://cran.r-project.org/pub/R/web/checks/check_results_berry-b_at_gmx.de.html), 
 co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/) 
 and help people with data analysis projects.  
-Starting late 2019, I plan to be a (freelance) R trainer and consultant. 
+Starting 2020, I plan to be a freelance R trainer and consultant. 
 Please feel free to already [contact me](mailto:berry-b@gmx.de) for work requests or job offerings.  
 
 
@@ -39,3 +39,19 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 - [Beta distribution tutorial](https://www.meetup.com/de-DE/Berlin-R-Users-Group/events/241002508/) at Berlin R User Group, June 2017
 - [Advanced R course](https://github.com/brry/course/blob/master/uni.md), Msc and PhD Geoecology at UP, Jan 2019
 - R course for digital health students at [HPI](https://open.hpi.de/courses/fprog-wi-2019), fall 2019
+
+
+## Programming references
+
+### packages on CRAN
+- [rdwd](https://github.com/brry/rdwd#rdwd) to handle German weather data from within R
+- [OSMscale](https://github.com/brry/OSMscale#intro) for easy static maps with scalebars
+- [rskey](https://github.com/brry/rskey#rskey) for rstudio keyboard shortcuts
+- [extremeStat](https://github.com/brry/extremeStat#intro) to fit, plot and compare extreme value distributions
+- [berryFunctions](https://cran.r-project.org/web/packages/berryFunctions/vignettes/berryFunctions.html) with mixed useful functions
+
+### other projects
+- [runway](https://github.com/brry/runway#runway), a shiny app with an interactive map to find running tracks
+- [bike](https://github.com/brry/bike), a series of bike challenges in Potsdam
+- [ice](https://github.com/brry/ice#ice-hockey-playability-prediction), a model to predict when we can play ice hockey in Potsdam
+- [boaty](https://github.com/brry/boaty#boaty), a short analysis of funny ship names
