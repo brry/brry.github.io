@@ -22,11 +22,11 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 
 ## Fields of expertise
 
-- data analysis & visualisation
-- introductionary & advanced R courses
-- package development
-- spatio-temporal data analysis
-- extreme value statistics
+- Data analysis & visualisation
+- Introductionary & advanced R courses
+- Package development
+- Spatio-temporal data analysis
+- Extreme value statistics
 
 ## Teaching experience
 
@@ -44,14 +44,14 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 
 ## Programming references
 
-### packages on CRAN
+### Packages on CRAN
 - [rdwd](https://github.com/brry/rdwd#rdwd) to handle German weather data from within R
 - [OSMscale](https://github.com/brry/OSMscale#intro) for easy static maps with scalebars
 - [rskey](https://github.com/brry/rskey#rskey) for rstudio keyboard shortcuts
 - [extremeStat](https://github.com/brry/extremeStat#intro) to fit, plot and compare extreme value distributions
 - [berryFunctions](https://cran.r-project.org/web/packages/berryFunctions/vignettes/berryFunctions.html) with miscellaneous useful functions
 
-### other projects
+### Other projects
 - [runway](https://github.com/brry/runway#runway), a shiny app with an interactive map to find running tracks
 - [bike](https://github.com/brry/bike), a series of bike challenges in Potsdam
 - [ice](https://github.com/brry/ice#ice-hockey-playability-prediction), a model to predict when we can play ice hockey in Potsdam
