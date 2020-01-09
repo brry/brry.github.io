@@ -13,7 +13,7 @@ Hi!
 I'm Berry, environmental scientist by training and R enthusiast by heart. 
 I'm based in Potsdam near Berlin, Germany.   
 I give [R courses](https://github.com/brry/course#slides), 
-develop [rdwd](https://github.com/brry/rdwd#rdwd) and other [packages](ftp://cran.r-project.org/pub/R/web/checks/check_results_berry-b_at_gmx.de.html), 
+develop [rdwd](https://github.com/brry/rdwd#rdwd) and other packages, 
 co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/) 
 and help people with data analysis projects.  
 Starting 2020, I plan to be a freelance R trainer and consultant. 
@@ -23,7 +23,7 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 ## Fields of expertise
 
 - data analysis & visualisation
-- introductionary R courses
+- introductionary & advanced R courses
 - package development
 - spatio-temporal data analysis
 - extreme value statistics
@@ -35,7 +35,8 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 - CaWa [one week R intro course](http://www.cawa-project.net/ru/news-detail/news/cawa-training-course-statistical-analysis-in-hydrology-introduction-into-r/) in Bishkek, Kyrgyzstan, Dec 2013
 - Introductionary half-semester weekly courses for  Msc Geoecology at UP, fall 2015 + 2016 + 2017 + 2018
 - CaWa one week course in Almaty, Kazakhstan, Sept 2016
-- Software Carpentry Workshop trainer, May [2017](https://swc-bb.github.io/2017-05-17-GFZ/) + Apr [2018](https://swc-bb.github.io/2018-04-25-Potsdam-Berlin/)
+- [Using R in hydrology](https://github.com/hydrosoc/rhydro_EGU17#using-r-in-hydrology---egu2017-short-course) EGU short course, Apr 2017
+- Software Carpentry Workshop trainer, May [2017](https://swc-bb.github.io/2017-05-17-GFZ/) + Apr [2018](https://swc-bb.github.io/2018-04-25-Potsdam-Berlin/) + Nov [2019](https://swc-bb.github.io/2019-11-26-Potsdam-Berlin-R/)
 - [Beta distribution tutorial](https://www.meetup.com/de-DE/Berlin-R-Users-Group/events/241002508/) at Berlin R User Group, June 2017
 - [Advanced R course](https://github.com/brry/course/blob/master/uni.md), Msc and PhD Geoecology at UP, Jan 2019
 - R course for digital health students at [HPI](https://open.hpi.de/courses/fprog-wi-2019), fall 2019
@@ -48,7 +49,7 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 - [OSMscale](https://github.com/brry/OSMscale#intro) for easy static maps with scalebars
 - [rskey](https://github.com/brry/rskey#rskey) for rstudio keyboard shortcuts
 - [extremeStat](https://github.com/brry/extremeStat#intro) to fit, plot and compare extreme value distributions
-- [berryFunctions](https://cran.r-project.org/web/packages/berryFunctions/vignettes/berryFunctions.html) with mixed useful functions
+- [berryFunctions](https://cran.r-project.org/web/packages/berryFunctions/vignettes/berryFunctions.html) with miscellaneous useful functions
 
 ### other projects
 - [runway](https://github.com/brry/runway#runway), a shiny app with an interactive map to find running tracks
