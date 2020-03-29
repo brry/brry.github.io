@@ -56,3 +56,4 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 - [bike](https://github.com/brry/bike), a series of bike challenges in Potsdam
 - [ice](https://github.com/brry/ice#ice-hockey-playability-prediction), a model to predict when we can play ice hockey in Potsdam
 - [boaty](https://github.com/brry/boaty#boaty), a short analysis of funny ship names
+- [books](https://brry.github.io/books), a map of open exchange book cases collected from various sources
