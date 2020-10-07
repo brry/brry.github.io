@@ -8,15 +8,17 @@ pagetitle: brry.github.io
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<img src="https://github.com/brry/course/raw/master/externalfig/Blogo.png" width="100">
+
 Hi!
 
 I'm Berry, environmental scientist by training and R enthusiast by heart. 
 I'm based in Potsdam near Berlin, Germany.   
-I give [R courses](https://github.com/brry/course#slides), 
+I give [R courses](https://bookdown.org/brry/course), 
 develop [rdwd](https://github.com/brry/rdwd#rdwd) and other packages, 
 co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/) 
 and help people with data analysis projects.  
-Starting 2020, I plan to be a freelance R trainer and consultant. 
+Starting late 2020, I plan to be a freelance R trainer and consultant. 
 Please feel free to already [contact me](mailto:berry-b@gmx.de) for work requests or job offerings.  
 
 
@@ -39,7 +41,8 @@ Please feel free to already [contact me](mailto:berry-b@gmx.de) for work request
 - Software Carpentry Workshop trainer, May [2017](https://swc-bb.github.io/2017-05-17-GFZ/) + Apr [2018](https://swc-bb.github.io/2018-04-25-Potsdam-Berlin/) + Nov [2019](https://swc-bb.github.io/2019-11-26-Potsdam-Berlin-R/)
 - [Beta distribution tutorial](https://www.meetup.com/de-DE/Berlin-R-Users-Group/events/241002508/) at Berlin R User Group, June 2017
 - [Advanced R course](https://github.com/brry/course/blob/master/uni.md), Msc and PhD Geoecology at UP, Jan 2019
-- R course for digital health students at [HPI](https://open.hpi.de/courses/fprog-wi-2019), fall 2019
+- R course for digital health students at [HPI](https://open.hpi.de/courses/fprog-wi-2019), fall 2019 + 2020
+- Tutor in stats course at [HPI](https://open.hpi.de/courses/StatisticsCHealthSoSe2020), summer 2020
 
 
 ## Programming references
