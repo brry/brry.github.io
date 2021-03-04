@@ -4,57 +4,72 @@ pagetitle: brry.github.io
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{css, echo=FALSE}
+h3, #TOC>ul>ul>li {
+  color: #276DC2;
+}
 ```
 
 <img src="https://github.com/brry/course/raw/master/externalfig/Blogo.png" width="100">
 
+<font size="3">
 Hi!
 
-I'm Berry, environmental scientist by training and R enthusiast by heart. 
-I'm based in Potsdam near Berlin, Germany.   
+I'm Berry, a freelance R trainer and consultant based in Potsdam, Germany.   
 I give [R courses](https://bookdown.org/brry/course), 
-develop [rdwd](https://github.com/brry/rdwd#rdwd) and other packages, 
-co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/) 
-and help people with data analysis projects.  
-Starting late 2020, I plan to be a freelance R trainer and consultant. 
-Please feel free to already [contact me](mailto:berry-b@gmx.de) for work requests or job offerings.  
+develop [rdwd](https://github.com/brry/rdwd#rdwd) and other packages and co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/).
 
+[Contact me](mailto:berry-b@gmx.de) to book me as a trainer or request assistance with data science projects.
 
-## Fields of expertise
+</font>
+
+### Fields of expertise
 
 - Data analysis & visualisation
 - Introductionary & advanced R courses
 - Package development
 - Spatio-temporal data analysis
 - Extreme value statistics
+- Environmental science (Msc Geoecology)
 
-## Teaching experience
+### Teaching experience
 
-- R tutorial within module "Data analysis" for Bsc Geoecology at Potsdam University (UP), weekly sessions, 2012 + 2013
-- [Intermediate R courses with hydrology tasks](https://github.com/brry/brry.github.io/blob/master/Rhydro2012.pdf), organized on saturdays, fall 2012
-- CaWa [one week R intro course](http://www.cawa-project.net/ru/news-detail/news/cawa-training-course-statistical-analysis-in-hydrology-introduction-into-r/) in Bishkek, Kyrgyzstan, Dec 2013
-- Introductionary half-semester weekly courses for  Msc Geoecology at UP, fall 2015 + 2016 + 2017 + 2018
-- CaWa one week course in Almaty, Kazakhstan, Sept 2016
-- [Using R in hydrology](https://github.com/hydrosoc/rhydro_EGU17#using-r-in-hydrology---egu2017-short-course) EGU short course, Apr 2017
-- Software Carpentry Workshop trainer, May [2017](https://swc-bb.github.io/2017-05-17-GFZ/) + Apr [2018](https://swc-bb.github.io/2018-04-25-Potsdam-Berlin/) + Nov [2019](https://swc-bb.github.io/2019-11-26-Potsdam-Berlin-R/)
-- [Beta distribution tutorial](https://www.meetup.com/de-DE/Berlin-R-Users-Group/events/241002508/) at Berlin R User Group, June 2017
-- [Advanced R course](https://github.com/brry/course/blob/master/uni.md), Msc and PhD Geoecology at UP, Jan 2019
-- R course for digital health students at [HPI](https://open.hpi.de/courses/fprog-wi-2019), fall 2019 + 2020
-- Tutor in stats course at [HPI](https://open.hpi.de/courses/StatisticsCHealthSoSe2020), summer 2020
+- semester classes at Potsdam University and Hasso Plattner Institute
+- one-week workshops in Central Asia
+- two-day Software Carpentry Workshops
+- tutorials for hydrologists
 
 
-## Programming references
+<details>
+  <summary>Click to see details on a selection of courses.</summary>
 
-### Packages on CRAN
+<br>
+GE = [Geoecology](https://www.uni-potsdam.de/en/umwelt/study-program-geoecology/overview) study program at Potsdam University
+```{r table, echo=FALSE, warning=FALSE}
+tab <- readxl::read_excel("Teaching_Overview.xlsx")
+#knitr::kable(tab, format="html", col.names=NULL)
+library(magrittr)
+suppressPackageStartupMessages(library(huxtable))
+ht <- huxtable::hux(tab, add_colnames=FALSE)
+ht %>%
+  set_all_borders(1) %>%
+  set_markdown() %>% 
+  set_valign("middle") %>% 
+  set_bottom_padding(0)
+```
+
+</details>
+
+### Programming references
+
+#### Packages on CRAN
 - [rdwd](https://github.com/brry/rdwd#rdwd) to handle German weather data from within R
 - [OSMscale](https://github.com/brry/OSMscale#intro) for easy static maps with scalebars
 - [rskey](https://github.com/brry/rskey#rskey) for rstudio keyboard shortcuts
 - [extremeStat](https://github.com/brry/extremeStat#intro) to fit, plot and compare extreme value distributions
 - [berryFunctions](https://cran.r-project.org/web/packages/berryFunctions/vignettes/berryFunctions.html) with miscellaneous useful functions
 
-### Other projects
+#### Other projects
 - [runway](https://github.com/brry/runway#runway), a shiny app with an interactive map to find running tracks
 - [bike](https://github.com/brry/bike), a series of bike challenges in Potsdam
 - [ice](https://github.com/brry/ice#ice-hockey-playability-prediction), a model to predict when we can play ice hockey in Potsdam
