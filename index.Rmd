@@ -10,16 +10,17 @@ h3, #TOC>ul>ul>li {
 }
 ```
 
-<img src="https://github.com/brry/course/raw/master/externalfig/Blogo.png" width="100">
-
 <font size="3">
 Hi!
+<a href="https://github.com/brry/brry.github.io/raw/master/course22z.jpg"><img src="https://github.com/brry/brry.github.io/raw/master/course22z.jpg" width="550" alt="Photo Berry"></a>
 
 I'm Berry, a freelance R trainer and consultant based in Potsdam, Germany.   
 I give [R courses](https://bookdown.org/brry/course), 
 develop [rdwd](https://github.com/brry/rdwd#rdwd) and other packages and co-organize the [Berlin R User Group](https://www.meetup.com/de-DE/Berlin-R-Users-Group/).
 
 [Contact me](mailto:berry-b@gmx.de) to book me as a trainer or request assistance with data science projects.
+<img src="https://github.com/brry/course/raw/master/externalfig/Blogo.png" width="40">
+
 
 </font>
 
