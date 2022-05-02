@@ -39,7 +39,7 @@ develop [rdwd](https://github.com/brry/rdwd#rdwd) and other packages and co-orga
 - one-week workshops in Central Asia
 - two-day Software Carpentry Workshops
 - tutorials for hydrologists
-- MOOC with many participants (in prep)
+- MOOC with 2'000 active participants
 
 
 <details>
